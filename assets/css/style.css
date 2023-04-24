@@ -8,11 +8,20 @@ body{
     background-color: #bfe3b4;
 }
 
+header{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: 
+}
+
 header ul {
     display: flex;
     justify-content: flex-end; 
     flex-direction: row;
     font-size: 20px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white
+    color: white;
+    text-decoration: underline;
+    text-shadow: black;
 }
