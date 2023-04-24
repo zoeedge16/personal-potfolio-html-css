@@ -4,15 +4,14 @@ html, * {
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #bfe3b4;
 }
 
-header{
+header {
     font-size: 45px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
-    font-weight: 
 }
 
 header ul {
@@ -24,10 +23,18 @@ header ul {
     color: white;
     text-shadow: black;
 }
-a{
+
+a {
     color:white;
 }
 
 a:hover {
     text-shadow: 0 0 5px white;
+}
+
+main {
+    color: gray;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    display: inline-block;
 }
