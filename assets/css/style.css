@@ -48,6 +48,13 @@ footer {
     padding: 0;
 }
 
+.border {
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    margin: 10px;
+}
+
 .profile-photo {
     width: 150px;
     height: 150px;
@@ -56,16 +63,16 @@ footer {
 
 .work-items {
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin: 20px;
 }
 
 .work-item {
     position: relative;
     display: inline-block;
+    flex-direction:column;
     width: 50%;
+    margin: 5x 5px;
 }
 
 .featured {
@@ -75,7 +82,7 @@ footer {
 }
 
 .fluid-img {
-    width: 50%;
+    width: 100%;
 }
 
 .caption {
@@ -90,6 +97,8 @@ footer {
 
 .about-paragraph {
     margin: 10px 10px;
+    display: flex;
+    flex-direction:column;
 }
 .contact-info {
     display: flex;
