@@ -22,7 +22,6 @@ footer {
 main {
     display: flex;
     flex-direction: column;
-    font-size: 35px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     background-color: #bfe3b4;
@@ -59,12 +58,31 @@ a:hover {
 }
 
 .work-item {
+    position: relative;
     display: inline-block;
-    width: 100%;
+    width: 50%;
 }
 
 .featured {
-    width: 400px;
+    width: 100%;
     /* flex-basis: 400px;
     flex-grow: 1; */
+}
+
+.fluid-img {
+    width: 50%;
+}
+
+.caption {
+    position: absolute;
+    margin: 16px;
+    padding: 8px;
+    background-color: #8aac7f8f;
+    border: 4px dashed black;
+    bottom: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 576px) {
+
 }
