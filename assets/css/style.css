@@ -101,24 +101,18 @@ footer {
     display: flex;
     flex-direction:column;
 }
-/* come back here */
-.contact-info {
-    display: flex;
-    flex-direction: row;
-}
 
-/* .photo {
+.photo {
     aspect-ratio: 16/9;
     display: flex;
     align-items: center;
     justify-content: center; 
     overflow: hidden;
     margin: 8px;
-    filter: saturate(0.25) blur(10px);
-} */
+}
 
 .photo:hover {
-    filter: saturate(1) blur(0px);
+    filter: saturate(1);
     transition: all 300ms ease-in-out;
 }
 
