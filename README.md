@@ -6,7 +6,14 @@ This project uses HTML and CSS in order to create a personal portfolio. This por
 
 It is done when I have a name, recent photo, and links to sections about myself, my work, and how to contact me. 
 When I click on the links in the navigation, the page scrolls to the appropriate section.
-When I click on the work section, the page scrolls to a section about my work with titled images of my applications
+When I click on the work section, the page scrolls to a section about my work with titled images of my applications.
+When the first application is presented, it is a bigger image than the other applications. 
+When I click on the images for my applications, then I am taken to the webpage. 
+When I view the page in different formats, the layout responds appropriately.
 
 ## License
-[MIT](hhtps://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshot 
+
+![screenshot](./assets/image/personal-portfolio.png)
