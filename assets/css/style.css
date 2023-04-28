@@ -59,14 +59,7 @@ footer {
 .profile-photo {
     width: 150px;
     height: 150px;
-    margin: 20px 0px 20px;
-}
-
-.profile {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-
+    margin: 0px 500px 0px 500px; 
 }
 
 .work-items {
@@ -108,14 +101,13 @@ footer {
     display: flex;
     flex-direction:column;
 }
+/* come back here */
 .contact-info {
     display: flex;
     flex-direction: row;
-    margin: 10px 10px;
-    align-items: center;
 }
 
-.photo {
+/* .photo {
     aspect-ratio: 16/9;
     display: flex;
     align-items: center;
@@ -123,7 +115,7 @@ footer {
     overflow: hidden;
     margin: 8px;
     filter: saturate(0.25) blur(10px);
-}
+} */
 
 .photo:hover {
     filter: saturate(1) blur(0px);
