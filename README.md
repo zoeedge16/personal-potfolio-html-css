@@ -14,6 +14,11 @@ When I view the page in different formats, the layout responds appropriately.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Deployment
+
+[Deployed](https://zoeedge16.github.io/personal-potfolio-html-css/)
+[Repository](https://github.com/zoeedge16/personal-potfolio-html-css)
+
 ## Screenshot 
 
 ![screenshot](./assets/image/personal-portfolio.png)

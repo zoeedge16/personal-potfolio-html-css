@@ -59,7 +59,10 @@ footer {
 .profile-photo {
     width: 150px;
     height: 150px;
-    margin: 0px 500px 0px 500px; 
+}
+
+.resume-photo{
+    width: 50%
 }
 
 .work-items {
