@@ -16,8 +16,9 @@ When I view the page in different formats, the layout responds appropriately.
 
 ## Deployment
 
-[Deployed](https://zoeedge16.github.io/personal-potfolio-html-css/)
-[Repository](https://github.com/zoeedge16/personal-potfolio-html-css)
+[Deployed](https://zoeedge16.github.io/personal-potfolio-html-css)
+
+[Repository](https://github.com/zoeedge16)
 
 ## Screenshot 
 
